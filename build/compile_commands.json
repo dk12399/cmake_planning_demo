@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/University/Template/cmake_planning_demo/build",
+  "command": "C:\\Dev\\msys64\\mingw64\\bin\\c++.exe -IE:/University/Template/cmake_planning_demo/src/process -IE:/University/Template/cmake_planning_demo/src/pnc_map -g -o CMakeFiles\\planning_main.dir\\src\\planning_main.cpp.obj -c E:\\University\\Template\\cmake_planning_demo\\src\\planning_main.cpp",
+  "file": "E:\\University\\Template\\cmake_planning_demo\\src\\planning_main.cpp",
+  "output": "CMakeFiles\\planning_main.dir\\src\\planning_main.cpp.obj"
+},
+{
+  "directory": "E:/University/Template/cmake_planning_demo/build",
+  "command": "C:\\Dev\\msys64\\mingw64\\bin\\c++.exe -Dpnc_map_EXPORTS -IE:/University/Template/cmake_planning_demo/src/pnc_map -g -o src\\pnc_map\\CMakeFiles\\pnc_map.dir\\pnc_map.cpp.obj -c E:\\University\\Template\\cmake_planning_demo\\src\\pnc_map\\pnc_map.cpp",
+  "file": "E:\\University\\Template\\cmake_planning_demo\\src\\pnc_map\\pnc_map.cpp",
+  "output": "src\\pnc_map\\CMakeFiles\\pnc_map.dir\\pnc_map.cpp.obj"
+},
+{
+  "directory": "E:/University/Template/cmake_planning_demo/build",
+  "command": "C:\\Dev\\msys64\\mingw64\\bin\\c++.exe -Dprocess_EXPORTS -IE:/University/Template/cmake_planning_demo/src/process -IE:/University/Template/cmake_planning_demo/src/pnc_map -g -o src\\process\\CMakeFiles\\process.dir\\process.cpp.obj -c E:\\University\\Template\\cmake_planning_demo\\src\\process\\process.cpp",
+  "file": "E:\\University\\Template\\cmake_planning_demo\\src\\process\\process.cpp",
+  "output": "src\\process\\CMakeFiles\\process.dir\\process.cpp.obj"
+}
+]
